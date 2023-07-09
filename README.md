@@ -1,2 +1,0 @@
-# GooglePlay
-Interface official GooglePlay
